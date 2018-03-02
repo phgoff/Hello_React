@@ -6,7 +6,7 @@ class Temp extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            celsius: 0,
+            celsius: '',
             farenheit: 32
         }
     }
